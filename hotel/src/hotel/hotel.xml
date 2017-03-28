@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logkamar xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="hotel.xsd">
+<kamar>
+	<kode kamar="001">A111</kode>
+	<nama>Ekonomic</nama>
+	<harga>1000</harga>
+	<fasilitas>
+		<jenis>extrabed</jenis>
+		<no>11</no>
+	</fasilitas>
+</kamar>
+<kamar>
+	<kode>A222</kode>
+	<nama>Original</nama>
+	<harga>2000</harga>
+	<fasilitas>
+		<Jenis>AC</Jenis>
+		<no>22</no>
+	</fasilitas>
+</kamar>
+<kamar>
+	<kode>A333</kode>
+	<nama>Elegant</nama>
+	<harga>3000</harga>
+	<fasilitas>
+		<jenis>hotwater</jenis>
+		<no>33</no>
+	</fasilitas>
+</kamar>
+<kamar>
+	<kode>A444</kode>
+	<nama>Exelent</nama>
+	<harga>4000</harga>
+	<fasilitas>
+		<jenis>extra breakfast</jenis>
+		<no>44</no>
+	</fasilitas>
+</kamar>
+<kamar>
+	<kode>A555</kode>
+	<nama>Extreme</nama>
+	<harga>5000</harga>
+	<fasilitas>
+		<jenis>extra dinner</jenis>
+		<no>55</no>
+	</fasilitas>
+</kamar>
+<kamar>
+	<kode>A666</kode>
+	<nama>Extra Fun</nama>
+	<harga>6000</harga>
+	<fasilitas>
+		<jenis>mini swimming pool</jenis>
+		<no>66</no>
+	</fasilitas>
+</kamar>
+<kamar>
+	<kode>A777</kode>
+	<nama>Prince</nama>
+	<harga>7000</harga>
+	<fasilitas>
+		<jenis>bing barbeque</jenis>
+		<no>77</no>
+	</fasilitas>
+</kamar>
+<kamar>
+	<kode>A888</kode>
+	<nama>King</nama>
+	<harga>8000</harga>
+	<fasilitas>
+		<jenis>free dessert everyday</jenis>
+		<no>88</no>
+	</fasilitas>
+</kamar>
+<kamar>
+	<kode>A999</kode>
+	<nama>Bussiness</nama>
+	<harga>9000</harga>
+	<fasilitas>
+		<jenis>free traveling</jenis>
+		<no>99</no>
+	</fasilitas>
+</kamar>
+<kamar>
+	<kode>A1010</kode>
+	<nama>Master</nama>
+	<harga>1010</harga>
+	<fasilitas>
+		<jenis>Free All of the facilities</jenis>
+		<no>10</no>
+	</fasilitas>
+</kamar>
+</logkamar>  
